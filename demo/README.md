@@ -30,6 +30,8 @@ Broadly speaking, this sets things up as below:
   - `chat:write:user`
   - `users:read`
   - `reactions:write`
+  
+- click the `Save Changes` button in Select Permission Scopes 
 
 - At the top of the page, the `Install App to Workspace` button is now available.  Click it!
 
